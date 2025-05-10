@@ -8,11 +8,9 @@ featured_image: '/images/dustin.jpg'
 
 ["Autobiography," "The Left World"](http://www.verseville.org/poems-by-dustin-pearson.html) -- Verseville 
 
-["Platonic Love"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/platonic-page.shtml) ["Time Spent"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/time-page.shtml) -- Blackbird
+["Platonic Love,"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/platonic-page.shtml) ["Time Spent"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/time-page.shtml) -- Blackbird
 
 ["Graceless and Gaslit"](https://www.zocalopublicsquare.org/dustin-pearson/) -- Zócalo Public Square
-
-["Platonic Love"](https://blackbird.vcu.edu/v21n2/poetry/pearson-d/platonic-page.shtml),["Time Spent"](https://blackbird.vcu.edu/v21n2/poetry/pearson-d/time-page.shtml) -- Blackbird
 
 ["Hell Swallowed"](https://honeyliterary.com/2021/01/21/dustin-pearson/) -- Honey Literary
 
