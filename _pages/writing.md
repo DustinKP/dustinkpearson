@@ -4,7 +4,7 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
-["Autobiography and The Left World"](http://www.verseville.org/poems-by-dustin-pearson.html) -- Verseville 
+["Autobiography," "The Left World"](http://www.verseville.org/poems-by-dustin-pearson.html) -- Verseville 
 
 ["Time Spent"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/time-page.shtml) -- Blackbird
 
@@ -16,7 +16,7 @@ featured_image: '/images/dustin.jpg'
 
 ["Lying Down"](https://www.thenation.com/article/culture/lying-down/) -- The Nation 
 
-["Fossil Fuel", "An Overgrowth Besides the Body"](https://theaccountmagazine.com/article/pearson-20) -- The Account
+["Fossil Fuel," "An Overgrowth Besides the Body"](https://theaccountmagazine.com/article/pearson-20) -- The Account
 
 ["Space Exploration: Dustin Pearson"](http://haydensferryreview.com/blog/2020/2/9/space-exploration-dustin-pearson) -- Hayden's Ferry Review 
 
