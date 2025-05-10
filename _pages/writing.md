@@ -4,6 +4,8 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
+["Time Spent"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/time-page.shtml) -- Blackbird
+
 ["Platonic Love"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/platonic-page.shtml) -- Blackbird
 
 ["Graceless and Gaslit"](https://www.zocalopublicsquare.org/dustin-pearson/) -- Zócalo Public Square
