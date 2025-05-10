@@ -14,6 +14,8 @@ featured_image: '/images/dustin.jpg'
 
 ["Graceless and Gaslit"](https://www.zocalopublicsquare.org/dustin-pearson/) -- Zócalo Public Square
 
+["Platonic Love"](https://blackbird.vcu.edu/v21n2/poetry/pearson-d/platonic-page.shtml),["Time Spent"](https://blackbird.vcu.edu/v21n2/poetry/pearson-d/time-page.shtml) -- Blackbird
+
 ["Hell Swallowed"](https://honeyliterary.com/2021/01/21/dustin-pearson/) -- Honey Literary
 
 ["Lying Down"](https://www.thenation.com/article/culture/lying-down/) -- The Nation 
