@@ -4,7 +4,7 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
-["A Wash after Entering"](https://sixthfinch.com/pearson1.html) -- Sixth Finch 
+["A Wash after Entering"](https://sixthfinch.com/pearson1.html) -- Sixth Finch
 
 ["Autobiography," "The Left World"](http://www.verseville.org/poems-by-dustin-pearson.html) -- Verseville 
 
