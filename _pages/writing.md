@@ -26,7 +26,7 @@ featured_image: '/images/dustin.jpg'
 
 - "Autobiography" -- Ours Poetica 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wyia4HHFC4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-["My Brother's Two Screams", "Hell's Wide Net", "The World at its Beginning"](http://www.hobartpulp.com/web_features/three-poems-59508d75-403e-4ee2-9828-097ad2262d8a?fbclid=IwAR0GDof1i_FbV3u4W9rkc2I4q_tTZgwprpYTBmEuda9wGXZsUyILDegKfH4) -- Hobart
+["My Brother's Two Screams," "Hell's Wide Net," "The World at its Beginning"](http://www.hobartpulp.com/web_features/three-poems-59508d75-403e-4ee2-9828-097ad2262d8a?fbclid=IwAR0GDof1i_FbV3u4W9rkc2I4q_tTZgwprpYTBmEuda9wGXZsUyILDegKfH4) -- Hobart
 
 ["Dustin Pearson on Jillian Weise's "Beautiful Freak Show""](https://poems.com/features/what-sparks-poetry/dustin-pearson-on-jillian-weises-beautiful-freak-show/?fbclid=IwAR3XOfI1uRFnLGspraxllbkn8RLxiTPkKFsnYpxvokxSyrJMS12lTVCsHuo) -- Poetry Daily
 
@@ -39,7 +39,7 @@ featured_image: '/images/dustin.jpg'
 “To the Sons"  -- Bennington Review
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fBcA-oRiu-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[“A Palace of Ice”, “Love, the Ugly”](https://www.connotationpress.com/hoppenthaler-s-congeries/3039-dustin-pearson-poetry) -- Connotation Press: An Online Artifact
+[“A Palace of Ice,” “Love, the Ugly”](https://www.connotationpress.com/hoppenthaler-s-congeries/3039-dustin-pearson-poetry) -- Connotation Press: An Online Artifact
 
 
 
