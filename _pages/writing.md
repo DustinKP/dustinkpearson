@@ -4,7 +4,9 @@ description: Duet is a beautiful Jekyll portfolio theme.
 layout: "page"
 featured_image: '/images/dustin.jpg'
 ---
-["Graceless and Gaslit"](https://www.zocalopublicsquare.org/dustin-pearson/)) -- Zócalo Public Square
+["Platonic Love"](https://blackbird-archive.vcu.edu/v21n2/poetry/pearson-d/platonic-page.shtml) -- Zócalo Public Square
+
+["Graceless and Gaslit"](https://www.zocalopublicsquare.org/dustin-pearson/) -- Zócalo Public Square
 
 ["Hell Swallowed"](https://honeyliterary.com/2021/01/21/dustin-pearson/) -- Honey Literary
 
