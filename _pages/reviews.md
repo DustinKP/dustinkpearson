@@ -16,3 +16,5 @@ featured_image: '/images/dustin.jpg'
 [South Dublin Reads: Poetry Roundup #1: January - June 2019 ](https://librarystaffpicks.wordpress.com/2019/07/02/poetry-roundup-1-january-june-2019/)
 
 [A Family Is a House](https://coalhillreview.com/a-family-is-a-house/)
+
+[The Dark and Deeply Philosophical Poetry of “A Season in Hell with Rimbaud”]([https://coalhillreview.com/a-family-is-a-house/](https://southernreviewofbooks.com/2022/06/10/a-season-in-hell-with-rimbaud-dustin-pearson-review/)https://southernreviewofbooks.com/2022/06/10/a-season-in-hell-with-rimbaud-dustin-pearson-review/)
